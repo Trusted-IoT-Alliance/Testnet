@@ -1,4 +1,4 @@
-# Testnets
+# Testnet
 
 
 The purpose of this repository is to document how to adapt a blockchain to the Trusted IoT Alliance Testnet.
